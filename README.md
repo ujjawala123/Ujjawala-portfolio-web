@@ -1,4 +1,4 @@
 # Ujjawala-portfolio-web
-portfolio website using Html, Css, Jvascript
+portfolio website using Html, Css, Jvascript.
 
 
